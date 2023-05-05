@@ -1,0 +1,19 @@
+@media (max-width:840px){
+    #Menu{
+        display:inline;
+        width:20%;
+    }
+    .btn2{
+        display:none;
+    }
+    .btn1{
+        width:100%;
+    }
+    .item1{
+        width:80%;
+    }
+    #Menu:hover{
+        background-color: rgb(224,214,194);
+        color:black;
+    }
+}

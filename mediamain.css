@@ -1,0 +1,47 @@
+@media (max-width:540px){
+    .second{
+        display:block;
+    }
+    .secondsecond{
+        width:100%;
+        height:80vh;
+    }
+    .first{
+        height:50vh;
+    }
+    .secondfirst{
+        height:100vh;
+    }
+    .secondthird{
+        width: 100%;
+        margin-left:0px;
+        margin-top:2px;
+    }
+    .secondfirstline{
+        margin-top:1%;
+    }
+    
+}
+@media (max-width:840px){
+    .mainbody{
+        display:block;
+    }
+    .first{
+        width:100%;
+        height:76vh;
+        margin-bottom:2%;
+    }
+    .line{
+        margin-top:7%;
+    }
+    .secondthirdline4{
+        margin-top:20.6%;
+    }
+    .secondfirst{
+        height:60vh;
+        margin-bottom: 2%;
+    }
+    .first>img{
+        height:30%;
+    }
+}
